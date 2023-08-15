@@ -46,8 +46,6 @@ Este projeto é baseado na documentação oficial do Ionic, especificamente no t
 ![Primeira Experiência de Uso](readme_images/imagem_primeiro_uso.jpeg)
 > A primeira vez que os usuários abrem o aplicativo, são guiados através de uma experiência de uso simples.
 
-
-
 ---
 
 Explore a poderosa combinação de Ionic e Angular enquanto cria uma experiência única e envolvente de galeria de fotos. Ideal para desenvolvedores que desejam aprofundar seus conhecimentos em desenvolvimento móvel e web moderno.
