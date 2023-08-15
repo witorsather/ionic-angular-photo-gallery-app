@@ -1,0 +1,30 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore platform-specific folders
+/platforms/
+/plugins/
+
+# Ignore build output
+/www/
+/*.apk
+/*.ipa
+
+# Ignore Cordova/PhoneGap files
+*.log
+*.log.*
+*.hprof
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Angular files
+.angular
+ios
+android
