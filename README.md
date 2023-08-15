@@ -31,11 +31,21 @@ Este projeto é baseado na documentação oficial do Ionic, especificamente no t
 
 ## Capturas de Tela
 
-![Tela Inicial](url_da_imagem_1)
-> Descrição da tela inicial do aplicativo.
+![Tela Inicial](readme_images/imagem_tela_inicial.jpeg)
+> Esta é a tela inicial do aplicativo, onde os usuários podem explorar as opções.
 
-![Galeria de Imagens](url_da_imagem_2)
-> Descrição da galeria de imagens do aplicativo.
+![Galeria de Imagens](readme_images/imagem_galeria.jpeg)
+> Na galeria de imagens, os usuários podem ver as fotos capturadas em uma visualização agradável.
+
+![Deletar Imagem](readme_images/imagem_deletar.jpeg)
+> Os usuários têm a opção de deletar imagens da galeria, proporcionando controle sobre suas fotos.
+
+![Menu de Opções](readme_images/imagem_menu.jpeg)
+> O menu de opções oferece uma variedade de ações para os usuários, permitindo personalização e navegação.
+
+![Primeira Experiência de Uso](readme_images/imagem_primeiro_uso.jpeg)
+> A primeira vez que os usuários abrem o aplicativo, são guiados através de uma experiência de uso simples.
+
 
 
 ---
