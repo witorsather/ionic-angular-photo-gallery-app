@@ -8,6 +8,7 @@ import {
 import { Capacitor } from '@capacitor/core';
 import { Filesystem, Directory } from '@capacitor/filesystem';
 import { Preferences } from '@capacitor/preferences';
+import { Platform } from '@ionic/angular';
 
 @Injectable({
   providedIn: 'root',
@@ -16,7 +17,8 @@ import { Preferences } from '@capacitor/preferences';
 export class PhotoService {
   public photos: UserPhoto[] = [];
   private PHOTO_STORAGE: string = 'photos';
-  platform: any;
+
+  constructor(private platform: Platform) {}
 
   public async addNewToGallery() {
     const capturedPhoto = await Camera.getPhoto({
